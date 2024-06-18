@@ -46,6 +46,7 @@ body.open .sidebar{
 
 }
 
+
 .sidebar-menu >button{
     display: flex;
     gap: 12px;
@@ -79,3 +80,27 @@ body.open .sidebar-menu >button >span{
     opacity: 1;
     transition: 0.4s;
 }
+
+section h2{
+   text-align: center;
+    margin-top: 90px;
+    font-size: 40px;
+    right: 20px;
+    color :rgb(114, 16, 65);
+}
+
+section h3{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+    right: 20px;
+    color :rgb(170, 181, 243)
+}
+
+section p{
+    text-align: center;
+    margin-top: 14px;
+    font-size: 30px;
+    color :bisque
+}
+
